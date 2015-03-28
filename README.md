@@ -65,7 +65,7 @@ Enjoy your **Django Dox** app _today!_
 
 #### LEGAL
 
-Copyright © 2013 [Micky Hulse](http://hulse.me)/[The Register-Guard](http://registerguard.com)
+Copyright © 2013 [Micky Hulse](http://mky.io)
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this work except in compliance with the License. You may obtain a copy of the License in the LICENSE file, or at:
 
