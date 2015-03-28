@@ -1,0 +1,20 @@
+[
+    {
+        "pk": 1,
+        "model": "dox.pagestatus",
+        "fields": {
+            "ordering": 0,
+            "is_live": true,
+            "name": "Open"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "dox.pagestatus",
+        "fields": {
+            "ordering": 1,
+            "is_live": false,
+            "name": "Closed"
+        }
+    }
+]
