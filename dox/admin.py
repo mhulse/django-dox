@@ -103,6 +103,7 @@ class PageAdmin(admin.ModelAdmin):
     list_display_links = ('name', 'status', 'is_active', 'publish_date', 'expiration_date',)
     list_editable      = ('url', 'template_name', 'author',)
     list_filter        = ('author', 'status', 'is_active', 'publish_date', 'expiration_date',)
+    ordering           = ('name',)
     
     date_hierarchy = 'publish_date'
     
